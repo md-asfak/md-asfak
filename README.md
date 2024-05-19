@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
 <h1 align="center">Hi 👋, I'm Ashfakur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
