@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Ashfakur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">- 🌱 Hi 👋 , i am Front-End Enthusiast with a passion for building innovative and user-friendly web applications. Experienced in frontend developer</p>
+<p align="center">- 🌱 Hi 👋 , i am Front-End Enthusiast with a passion for building innovative and user-friendly web applications. Experienced in frontend developer.</p>
 
 - 🌱 I’m learned **Hyper Tech Global Technology Pvt. Ltd.**
 
