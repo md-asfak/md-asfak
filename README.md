@@ -1,5 +1,5 @@
 
-<img align="center" alt="code" width="400" src="https://tenor.com/bmGMU.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h1 align="center">Hi 👋, I'm Ashfakur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
